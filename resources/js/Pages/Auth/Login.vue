@@ -4,15 +4,18 @@
 	</head>
 	<div class="col-md-4">
 		<div class="fade-in">
-			<div class="text-center mb-4">
-				<a href="" class="text-dark text-decoration-none">
-					<img src="/images/cash-machine.png" class="bg-light rounded shadow-sm p-1" width="40"> <span class="text-center mt-2 ml-2 font-weight-bold" style="font-size: 25px">Sarawi</span><span class="text-center mt-2 font-weight-bold" style="font-size: 28px; color:crimson">Store</span><span class="mt-2 text-center font-weight-bold" style="font-size: 25px">.</span>
-				</a>
-			</div>
 			<div class="card-group">
 				<div class="card border-top-purple border-0 shadow-sm rounded-3">
 					<div class="card-body">
-						<div class="text-start">
+						<div class="text-center mb-4">
+							<a href="" class="text-dark text-decoration-none">
+								<img
+									src="/images/logoku.png"
+									class="rounded shadow-sm p-1"
+									style="width: 60px;">
+							</a>
+						</div>
+						<div class="text-center">
 							<h5>LOGIN ACCOUNT</h5>
 							<P class="text-muted">Sign In to your account</P>
 						</div>

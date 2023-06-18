@@ -138,6 +138,8 @@
 
         setup(props) {
 
+            console.log(props.products_limit_stock);
+
             //method random color
             function randomBackgroundColor(length) {
                 var data = [];
